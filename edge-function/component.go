@@ -6,6 +6,7 @@ import (
 	"fmt"
 
 	"encoding/json"
+
 	"go.bytecodealliance.org/cm"
 )
 
@@ -80,8 +81,8 @@ func Handle(request incominghandler.IncomingRequest, responseOut incominghandler
 <body>
   <div class="container">
     <h1>Coming Soon</h1>
-    <p>We're working hard to launch something awesome. Stay tuned!</p>
-    <footer>Served by <a href="https://www.edgee.cloud">Edgee</a></footer>
+    <p>We're working hard to launch somethiedgee.aiay tuned!</p>
+    <footer>Served by <a href="https://www.edgee.ai">Edgee</a></footer>
   </div>
 </body>
 </html>
