@@ -40,7 +40,7 @@ jobs:
           sudo dpkg -i tinygo_0.38.0_amd64.deb
 
       - name: Install Edgee CLI
-        uses: edgee-cloud/install-edgee-cli@v0.2.0
+        uses: edgee-ai/install-edgee-cli@v0.2.0
 
       - name: Run edgee component wit
         run: edgee component wit

@@ -35,8 +35,8 @@ Describe **what this component does** and why it exists.
 
 Additional resources: [Resource example](https://your-resource-link.com)
 '''
-documentation = "https://github.com/edgee-cloud/example-go-component"
-repository = "https://github.com/edgee-cloud/example-go-component"
+documentation = "https://github.com/edgee-ai/example-go-component"
+repository = "https://github.com/edgee-ai/example-go-component"
 language = "Go"
 wit-version = "1.0.0"
 
